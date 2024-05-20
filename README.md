@@ -4,7 +4,7 @@
 
 #### En este repositorio encontrarás dos carpetas:
 1. `apoyo`: Con los archivos necesarios para realizar el desafío. Son los 3 documentos html, uno para cada ítem del desafío.
-2. `trabajo-completo`: Con el desarrollo del desafío que realizamos en la ayudantía.
+2. `desarrollo`: Con el desarrollo del desafío que realizamos en la ayudantía.
 
 #### Material adicional y referencia:
 - [Herencia y la cadena de Prototipos](https://developer.mozilla.org/es/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
